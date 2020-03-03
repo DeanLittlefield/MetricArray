@@ -6,12 +6,12 @@
 * [The IDE Used](#the-ide-used)
 * [Code Breakdown](#code-breakdown)
 * [Boilerplate](#boilerplate)
-* [Calling Int Main](calling-int-main)
-* [Initiallizing Our Variables](initiallizing-our-variables)
-* [For Loop #1](for-loop-#1)
-* [For Loop #2](for-loop-#2)
-* [Results](results)
-* [Final Comments](final-comments)
+* [Calling Int Main](#calling-int-main)
+* [Initiallizing Our Variables](#initiallizing-our-variables)
+* [For Loop #1](#for-loop-#1)
+* [For Loop #2](#for-loop-#2)
+* [Results](#results)
+* [Final Comments](#final-comments)
 
 ## Introduction
 A C++ program that accepts 10 integers and stores them into an array. The program then checks the array for the smallest integer, largest integer, and finds the average of the integers. The reason for creating this program was to become more familiar arrays.
